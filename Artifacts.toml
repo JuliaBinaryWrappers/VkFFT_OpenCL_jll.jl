@@ -1,0 +1,160 @@
+[[VkFFT_OpenCL]]
+arch = "aarch64"
+git-tree-sha1 = "c8b57d8fd72587bf6c3503db75862396d2ca4d01"
+os = "macos"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "41e247e2163483cd7554c23f37f6368729ee18e2ee6d2367d7fe07ad8715ce74"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "aarch64"
+git-tree-sha1 = "943ed078897e0c3cf20e1b60f80b300f122004dd"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "28b1eda1d510872293ae6012144041accabd8057c13c596ef7d34cee1aa2e720"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "aarch64"
+git-tree-sha1 = "0a8cbda7561d8a4fa89a88f9cf33c00894103575"
+libc = "musl"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "02d2aff81a6ab80bdae77b95e703f3bfe68891356613e8915f3d54a326087b00"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.aarch64-linux-musl.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "aarch64"
+git-tree-sha1 = "3e6749025039a482806e8907dc3f35fc5610986a"
+os = "freebsd"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "eeb4d4881999aaed8f6a28261538cd94e2d9419003579a811dd60743d1ef051b"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "000749e887ad930ecbdfdc589744fbe90fb34abd"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "b575e2a7e8b91634bc64222cfe551c06ff5717bce3a8f409c0dca0e671689606"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8518c2ef22a4e71838e45db25d35d26c631c171c"
+libc = "musl"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "1ec4ec82c32eaee180fded85445976c73631149cc51d53b2c3b4a450ca32995e"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2a87e2c663458801169ad69551e5f9248f7c1ab5"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "705bba66db7b461ef604c8bd2cde8d37b19cc1751fdc9c92a5026addf9d9fb47"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "849320b789d5ad844e64c830a6155777572f8678"
+libc = "musl"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "d757cc099abfcb2147760699242199b023ca44eae92076d5dfb50f1342cc4386"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "i686"
+git-tree-sha1 = "a98a7b567ed5481a96ecb3d09f16a4bc93d1070d"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "433ed0b63f0dd6737790da5023dd3647d9854374b924da742090950f5bad5821"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.i686-linux-gnu.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "i686"
+git-tree-sha1 = "131157a6194aec632f0218e6573defe3853e1392"
+libc = "musl"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "2afeed712f5c40af5c19708ec8b6aafea619fc08e18abd41ec3bcbe0fcd89692"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.i686-linux-musl.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "i686"
+git-tree-sha1 = "820b85db4aa7298655d12b814086e1a0e40e9aa5"
+os = "windows"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "8f3fa879af89460f45dbabe6c62cf666abdcb72af7887af17e2b4e0c871f2651"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.i686-w64-mingw32.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "powerpc64le"
+git-tree-sha1 = "01cb3c20cfcf6eb0fe861cdb852e3ac2983f2785"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "c40e4174f7dc543a45edd81075b4da7a0897d42948cd2982d109c69a50ce85be"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "riscv64"
+git-tree-sha1 = "95cdf4efc49ea220454ff9208fb0eeb0b6cf6575"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "02e12a8ebbdb2c559fdd114e94a749dfc1061cc6e7a2ba79cf48fe03109afc3b"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.riscv64-linux-gnu.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "x86_64"
+git-tree-sha1 = "ce2ec06d05f3a8e6a8b7c8a6a3874a0e06431359"
+os = "macos"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "f56a6e6bd0dea9e3a0e8674f7cea28cf76d0f96b6ddaf983fdab60f2db20f1d4"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "x86_64"
+git-tree-sha1 = "a2430de4e1b6fe6d1c1710f8ef7ec16bb200a16c"
+libc = "glibc"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "a58012fba22c312a32120f066ffc26acf801c8c5492231fd2ccc8616e1154424"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "x86_64"
+git-tree-sha1 = "23af360b727ea95853dbfdd96cf831a9f305a6bf"
+libc = "musl"
+os = "linux"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "8feceac23a8071ab48b9cd9d852498d4c7cbc78c8921e2bd63eaf6b3a85a7423"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.x86_64-linux-musl.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "x86_64"
+git-tree-sha1 = "d9722566ecf3cafa805f3bb5e33b2b129279c809"
+os = "freebsd"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "e2ca8814ac42799347f5a196333690238af61f8952f89c1ff69aabbff76728d2"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[VkFFT_OpenCL]]
+arch = "x86_64"
+git-tree-sha1 = "62d1bcf64eafbfe7375bc9257ad044f6921d00cd"
+os = "windows"
+
+    [[VkFFT_OpenCL.download]]
+    sha256 = "8c64ed7ea8a1d8f2f0e698b03ef8517ca27853c2aae80dbb4cd1ab38e89995a1"
+    url = "https://github.com/JuliaBinaryWrappers/VkFFT_OpenCL_jll.jl/releases/download/VkFFT_OpenCL-v0.1.0+0/VkFFT_OpenCL.v0.1.0.x86_64-w64-mingw32.tar.gz"
